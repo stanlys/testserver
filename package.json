@@ -1,0 +1,19 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "html css",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "slider",
+    "html",
+    "css"
+  ],
+  "author": "stanlys <stanlys@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "@architect/sandbox": "^5.2.5"
+  }
+}
